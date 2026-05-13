@@ -2,11 +2,11 @@
 
 > **Ultimate, optimized, and undetectable script for Anime Slashing Simulator on Roblox. Experience maximum power, speed, and efficiency.**
 
-[![Download Now](https://img.shields.io/badge/Download-2026_Version-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://fullsofts.org/)
-[![Latest Release](https://img.shields.io/badge/Release-2026_Update-orange?style=for-the-badge)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active_&_Working-success?style=for-the-badge)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://fullsofts.org/)
-[![Roblox](https://img.shields.io/badge/Roblox-Supported-red?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-2026_Version-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://tj-kingdeecloud.com/)
+[![Latest Release](https://img.shields.io/badge/Release-2026_Update-orange?style=for-the-badge)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active_&_Working-success?style=for-the-badge)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://tj-kingdeecloud.com/)
+[![Roblox](https://img.shields.io/badge/Roblox-Supported-red?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
 
 ---
 
@@ -124,8 +124,8 @@
 
 ## 🔗 Quick Access
 
-[![Main Download](https://img.shields.io/badge/PRIMARY_DOWNLOAD_LINK-Click_Here-9cf?style=for-the-badge&logo=download&logoColor=white)](https://fullsofts.org/)
-[![Alternative](https://img.shields.io/badge/Alternative_Mirror-Available-yellow?style=for-the-badge)](https://fullsofts.org/)
+[![Main Download](https://img.shields.io/badge/PRIMARY_DOWNLOAD_LINK-Click_Here-9cf?style=for-the-badge&logo=download&logoColor=white)](https://tj-kingdeecloud.com/)
+[![Alternative](https://img.shields.io/badge/Alternative_Mirror-Available-yellow?style=for-the-badge)](https://tj-kingdeecloud.com/)
 
 ---
 
@@ -149,6 +149,6 @@
 
 > **Disclaimer:** This software is provided "as is" without warranty. Users assume all responsibility for compliance with Roblox Terms of Service. Use at your own risk.
 
-[![Download Final](https://img.shields.io/badge/GET_ANIME_SLASHING_SIMULATOR_SCRIPT_2026-Click_to_Download-important?style=for-the-badge&logo=rocket&logoColor=white)](https://fullsofts.org/)
+[![Download Final](https://img.shields.io/badge/GET_ANIME_SLASHING_SIMULATOR_SCRIPT_2026-Click_to_Download-important?style=for-the-badge&logo=rocket&logoColor=white)](https://tj-kingdeecloud.com/)
 
 **Last Updated: January 2026 | Anime Slashing Simulator Script 2026 Edition**
